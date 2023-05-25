@@ -5,6 +5,6 @@ In addition, you can see news related to NightmareStudio, download different ver
 This application was made in C#, using WinForm, you can download the source code from GitHub.<br>
 Below you will have some images:<br>
 
-<img src="https://raw.githubusercontent.com/LybraGames/NightmareStudioLauncher-WinForm-.NET-Framework-/master/README_SS/nsl_ss1.png?token=GHSAT0AAAAAACDAPV4VVUJGTHPPO5FWEITYZDPLVIA">
+<img src="https://github.com/LybraGames/NightmareStudioLauncher-WinForm-.NET-Framework-/blob/master/README_SS/nsl_ss1.png">
 <br>
-<img src="https://raw.githubusercontent.com/LybraGames/NightmareStudioLauncher-WinForm-.NET-Framework-/master/README_SS/nsl_ss2.png?token=GHSAT0AAAAAACDAPV4VHBDKGLWSWOC55UEAZDPLWCQ">
+<img src="https://github.com/LybraGames/NightmareStudioLauncher-WinForm-.NET-Framework-/blob/master/README_SS/nsl_ss2.png">
